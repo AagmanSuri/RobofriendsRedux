@@ -1,7 +1,7 @@
 import React from 'react';
 import Card from './Card';
 
-
+//cardlist
 const CardList = ({robots}) => {
     return (     
 <div>
